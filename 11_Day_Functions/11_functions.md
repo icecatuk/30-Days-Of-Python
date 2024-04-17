@@ -20,12 +20,11 @@
 
 - [📘 Day 11](#-day-11)
   - [Functions](#functions)
-    - [Defining a Function](#defining-a-function)
+    - [Defining a Function](#definingoi-a-function)
     - [Declaring and Calling a Function](#declaring-and-calling-a-function)
     - [Function without Parameters](#function-without-parameters)
     - [Function Returning a Value - Part 1](#function-returning-a-value---part-1)
     - [Function with Parameters](#function-with-parameters)
-    - [Passing Arguments with Key and Value](#passing-arguments-with-key-and-value)
     - [Function Returning a Value - Part 2](#function-returning-a-value---part-2)
     - [Function with Default Parameters](#function-with-default-parameters)
     - [Arbitrary Number of Arguments](#arbitrary-number-of-arguments)
@@ -380,7 +379,7 @@ Now it is time to express your thoughts about the Author and 30DaysOfPython. You
 
 ### Exercises: Level 1
 
-1. Declare a function _add_two_numbers_. It takes two parameters and it returns a sum.
+1. Declare a function _add_two_numbers_. It takes two parameters and it returns§ a sum.
 2. Area of a circle is calculated as follows: area = π x r x r. Write a function that calculates _area_of_circle_.
 3. Write a function called add_all_nums which takes arbitrary number of arguments and sums all the arguments. Check if all the list items are number types. If not do give a reasonable feedback.
 4. Temperature in °C can be converted to °F using this formula: °F = (°C x 9/5) + 32. Write a function which converts °C to °F, _convert_celsius_to-fahrenheit_.
